@@ -1,0 +1,7 @@
+code,name,floor
+URG,Urgències,0
+MI,Medicina interna,3
+CAR,Cardiologia,4
+PED,Pediatria,2
+TRA,Traumatologia,1
+URG,Urgències generals,0
